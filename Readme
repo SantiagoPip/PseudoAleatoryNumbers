@@ -1,0 +1,3 @@
+# Requiere tener instalado Node 
+# Para ejecutar el proyecto primero damos un npm install
+# Luego usamos el npm run dev
